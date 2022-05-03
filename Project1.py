@@ -1,5 +1,4 @@
-#Project | Author | Student Code
-#CITS1401 Project 1 S2 2020 | Reiden Rufin | 22986337
+#Author Spelljinxer
 
 def main(csvfile, year, type):
     fname = csvfile
